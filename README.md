@@ -1,5 +1,12 @@
 # README
 
+## Kyle
+
+This is the generic README. Basically all the write-ups are going to be directly taken from https://www.railstutorial.org/book/, so I'm not bothering to document (much) outside of the code.
+
+
+## Auto-generated
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
@@ -21,4 +28,3 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
