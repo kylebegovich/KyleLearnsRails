@@ -4,6 +4,7 @@
 
 This is the generic README. Basically all the write-ups are going to be directly taken from https://www.railstutorial.org/book/, so I'm not bothering to document (much) outside of the code.
 
+I was told to do this to get used to branches... seems trivial but whatevs
 
 ## Auto-generated
 
